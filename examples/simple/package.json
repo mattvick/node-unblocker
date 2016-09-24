@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "dependencies": {
-    "unblocker": "*"
+    "unblocker": "https://github.com/mattvick/node-unblocker"
   },
   "scripts": {
     "start": "node server.js"
